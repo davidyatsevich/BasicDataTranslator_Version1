@@ -37,4 +37,4 @@ This project demonstrates:
 - git clone https://github.com/your-username/your-repo.git
 - cd your-repo
 - g++ -std=c++17 -o <output-name> main.cpp
-- ./<output-name>
+- ./output-name
