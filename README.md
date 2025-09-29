@@ -32,7 +32,6 @@ This project demonstrates:
   - `<algorithm>` – for string transformations  
   - `<cassert>` – for internal sanity checks  
 
-## Installation / Build Instructions
 
 ### 1. Clone the Repository (bash or zsh)
 git clone https://github.com/your-username/your-repo.git
